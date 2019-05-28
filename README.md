@@ -1,0 +1,2 @@
+# coderdojo-kata-seed
+CoderDojoでのネタです。
